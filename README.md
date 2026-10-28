@@ -1,3 +1,3 @@
 Test file
 
-CI/CD E2E check: version 1.0.1 deployed by the pipeline.
+CI/CD E2E check: version 1.0.2 deployed by the pipeline.
